@@ -23,32 +23,44 @@ class PagesController < ApplicationController
 
     end
     
-    def bestRAM4
+    def bestRAM
 
     end
 
-    def MBAMD
+    def mbamd
         
     end
 
-    def MBIntel
+    def mbIntel
 
     end
 
-    def bestRAM5
+    def bestRAM
 
     end
 
-    def screen2K
+    def screen
 
     end 
 
-    def screen4K
+    def bestNVME
 
     end
 
-    def screenfull
+    def bestWATT
 
     end
 	
+    def bestbox
+
+    end
+
+    def bestAIO
+
+    end
+
+    def mouse
+
+    end
+
 end
