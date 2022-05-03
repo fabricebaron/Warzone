@@ -17,7 +17,7 @@ Rails.application.routes.draw do
   get 'mouse', to: 'pages#mouse'
   get 'bestCPU', to: 'pages#bestCPU'
   get 'bestbox', to: 'pages#bestbox'
-
+  get 'keyboard', to: 'pages#keyboard'
 
 
 end

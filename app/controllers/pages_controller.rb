@@ -63,4 +63,7 @@ class PagesController < ApplicationController
 
     end
 
+    def keyboard
+
+    end
 end
