@@ -66,4 +66,44 @@ class PagesController < ApplicationController
     def keyboard
 
     end
+
+    def bestGPU4K
+
+    end
+
+    def bestGPU2K
+
+    end
+	
+    def bestGPUHD
+
+    end
+
+    def g3090TI
+
+    end
+
+    def g3090
+
+    end
+
+    def g3080TI
+
+    end
+
+    def g3080
+
+    end
+
+    def g6900XT
+
+    end
+
+    def g6800XT
+
+    end
+
+    def g6800
+
+    end
 end

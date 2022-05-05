@@ -18,6 +18,14 @@ Rails.application.routes.draw do
   get 'bestCPU', to: 'pages#bestCPU'
   get 'bestbox', to: 'pages#bestbox'
   get 'keyboard', to: 'pages#keyboard'
-
-
+  get 'bestGPU4K', to: 'pages#bestGPU4K'
+  get 'bestGPU2K', to: 'pages#bestGPU2K'
+  get 'bestGPUHD', to: 'pages#bestGPUHD'
+  get 'g3090TI', to: 'pages#g3090TI'
+  get 'g3090', to: 'pages#g3090'
+  get 'g3080TI', to: 'pages#g3080TI'
+  get 'g3080', to: 'pages#g3080'
+  get 'g6900XT', to: 'pages#g6900XT'
+  get 'g6800XT', to: 'pages#g6800XT'
+  get 'g6800', to: 'pages#g6800'
 end

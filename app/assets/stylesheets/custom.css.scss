@@ -2,6 +2,9 @@
 @import "bootstrap";
 
 
+
+
+
   .container-fluid {
     position: absolute;
     
@@ -18,7 +21,7 @@
     }
   }
   .blog-card {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     border-radius: 1px;
     box-shadow: 0 0 2px -1px rgba(0, 0, 0, 0.75);
     height: 700px;
@@ -44,7 +47,7 @@
   }
   @media (max-width: 530px) {
     .card-body {
-      background-color: white;
+      background-color: rgb(255, 255, 255);
     }
   }
   .tagline {
@@ -262,7 +265,7 @@ body h1 {
     
     text-align: center;
     
-    font-family: 'Arial Black';
+    
 }
 
 body h2 {
