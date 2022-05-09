@@ -28,4 +28,10 @@ Rails.application.routes.draw do
   get 'g6900XT', to: 'pages#g6900XT'
   get 'g6800XT', to: 'pages#g6800XT'
   get 'g6800', to: 'pages#g6800'
+  get 'best1440LOW', to: 'pages#best1440LOW'
+  get 'best1440choise', to: 'pages#best1440choise'
+  get 'best4KLOW', to: 'pages#best4KLOW'
+  get 'best4KLOW', to: 'pages#best4KLOW'
+  get 'best4Kchoise', to: 'pages#best4Kchoise'
+  
 end

@@ -106,4 +106,20 @@ class PagesController < ApplicationController
     def g6800
 
     end
+
+    def best1440LOW
+
+    end
+
+    def best1440choise
+
+    end
+
+    def best4KLOW
+
+    end
+
+    def best4Kchoise
+
+    end
 end
