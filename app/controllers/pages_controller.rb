@@ -122,4 +122,12 @@ class PagesController < ApplicationController
     def best4Kchoise
 
     end
+
+    def bestRAMchoise
+
+    end
+
+    def bestRAMDDR5
+
+    end
 end

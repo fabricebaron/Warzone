@@ -33,5 +33,9 @@ Rails.application.routes.draw do
   get 'best4KLOW', to: 'pages#best4KLOW'
   get 'best4KLOW', to: 'pages#best4KLOW'
   get 'best4Kchoise', to: 'pages#best4Kchoise'
+  get 'bestRAMchoise', to: 'pages#bestRAMchoise'
+  get 'bestRAMDDR5', to: 'pages#bestRAMDDR5'
   
+
+
 end
