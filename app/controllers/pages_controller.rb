@@ -130,4 +130,8 @@ class PagesController < ApplicationController
     def bestRAMDDR5
 
     end
+
+    def g6950XT
+
+    end
 end
