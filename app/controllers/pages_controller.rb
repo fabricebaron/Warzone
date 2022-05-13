@@ -134,4 +134,13 @@ class PagesController < ApplicationController
     def g6950XT
 
     end
+
+    def pc2k1
+
+    end
+
+    def pc4k1
+
+    end
+
 end

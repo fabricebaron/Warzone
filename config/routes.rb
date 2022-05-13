@@ -36,7 +36,8 @@ Rails.application.routes.draw do
   get 'bestRAMchoise', to: 'pages#bestRAMchoise'
   get 'bestRAMDDR5', to: 'pages#bestRAMDDR5'
   get 'g6950XT', to: 'pages#g6950XT'
-  
-
+  get 'pc2k1', to: 'pages#pc2k1'
+  get 'pc4k1', to: 'pages#pc4k1'
+ 
 
 end
