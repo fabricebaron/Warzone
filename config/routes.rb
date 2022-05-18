@@ -38,6 +38,9 @@ Rails.application.routes.draw do
   get 'g6950XT', to: 'pages#g6950XT'
   get 'pc2k1', to: 'pages#pc2k1'
   get 'pc4k1', to: 'pages#pc4k1'
- 
+  get 'screen4K', to: 'pages#screen4K'
+  get 'screen2K', to: 'pages#screen2K'
+  get 'screen1080', to: 'pages#screen1080'
+  
 
 end

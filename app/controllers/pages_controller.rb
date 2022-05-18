@@ -143,4 +143,16 @@ class PagesController < ApplicationController
 
     end
 
+    def screen4K
+
+    end
+
+    def screen2K
+    
+    end
+
+    def screen1080
+
+    end
+
 end
