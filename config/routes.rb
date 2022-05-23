@@ -7,7 +7,7 @@ Rails.application.routes.draw do
   get 'bestGPU', to: 'pages#bestGPU'
   get 'bestRAM', to: 'pages#bestRAM'
   get 'best4K', to: 'pages#best4K'
-  get 'mbamd', to: 'pages#mbamd'
+  get 'mbamdchoise', to: 'pages#mbamdchoise'
   get 'mbIntel', to: 'pages#mbIntel'
   get 'bestRAM', to: 'pages#bestRAM'
   get 'screen', to: 'pages#screen'

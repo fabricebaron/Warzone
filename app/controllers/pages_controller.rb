@@ -27,7 +27,7 @@ class PagesController < ApplicationController
 
     end
 
-    def mbamd
+    def mbamdchoise
         
     end
 
