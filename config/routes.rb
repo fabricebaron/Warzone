@@ -41,6 +41,9 @@ Rails.application.routes.draw do
   get 'screen4K', to: 'pages#screen4K'
   get 'screen2K', to: 'pages#screen2K'
   get 'screen1080', to: 'pages#screen1080'
-  
+  get 'x570', to: 'pages#x570'
+  get 'mb58003d', to: 'pages#mb58003d'
+  get 'b550', to: 'pages#b550'
 
+  
 end

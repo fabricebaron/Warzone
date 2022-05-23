@@ -155,4 +155,16 @@ class PagesController < ApplicationController
 
     end
 
+    def  x570
+
+    end
+
+    def mb58003d
+
+    end
+
+    def b550
+
+    end
+
 end
