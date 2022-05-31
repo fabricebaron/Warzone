@@ -167,4 +167,60 @@ class PagesController < ApplicationController
 
     end
 
+    def z690ddr5
+
+    end
+
+    def z690ddr4
+
+    end
+
+    def b660ddr5
+
+    end
+
+    def b660ddr4
+
+    end
+
+    def nvme4to
+
+    end
+
+    def nvme2to
+
+    end
+
+    def nvme1to
+
+    end
+
+    def customamd
+
+    end
+
+    def customintel
+
+    end
+
+    def aioamd
+
+    end
+
+    def aiointel
+    
+    end
+
+    def best1200
+
+    end
+
+    def best1000
+
+    end
+
+    def best850
+
+    end
+
 end

@@ -44,6 +44,21 @@ Rails.application.routes.draw do
   get 'x570', to: 'pages#x570'
   get 'mb58003d', to: 'pages#mb58003d'
   get 'b550', to: 'pages#b550'
-
+  get 'z690ddr5', to: 'pages#z690ddr5'
+  get 'z690ddr4', to: 'pages#z690ddr4'
+  get 'b660ddr5', to: 'pages#b660ddr5'
+  get 'b660ddr4', to: 'pages#b660ddr4'
+  get 'nvme4to', to: 'pages#nvme4to'
+  get 'nvme2to', to: 'pages#nvme2to'
+  get 'nvme1to', to: 'pages#nvme1to'
+  get 'customintel', to: 'pages#customintel'
+  get 'customamd', to: 'pages#customamd'
+  get 'aiointel', to: 'pages#aiointel'
+  get 'aioamd', to: 'pages#aioamd'
+  get 'ventiamd', to: 'pages#ventiamd'
+  get 'ventiintel', to: 'pages#ventiintel'
+  get 'best1200', to: 'pages#best1200'
+  get 'best1000', to: 'pages#best1000'
+  get 'best850', to: 'pages#best850'
   
 end
